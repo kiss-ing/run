@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>ez</string>
+		<string> </string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
@@ -25,13 +25,13 @@ iVBORw0KGgoAAAANSUhEUgAAAfoAAAH3CAYAAABTi52XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
 			<key>PayloadDisplayName</key>
 			<string>ez</string>
 			<key>PayloadIdentifier</key>
-			<string>>3C151ECB-52A1-4F18-B5F6-735B63CEBBF6</string>
+			<string>>B3258CA0-04F7-4160-A2E6-A19D588C0865</string>
 			<key>PayloadOrganization</key>
 			<string>ez</string>
 			<key>PayloadType</key>
 	<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>3C151ECB-52A1-4F18-B5F6-735B63CEBBF6</string>
+			<string>B3258CA0-04F7-4160-A2E6-A19D588C0865</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
@@ -45,7 +45,7 @@ iVBORw0KGgoAAAANSUhEUgAAAfoAAAH3CAYAAABTi52XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
 	<key>PayloadDisplayName</key>
 	<string>ez</string>
 	<key>PayloadIdentifier</key>
-	<string>3C151ECB-52A1-4F18-B5F6-735B63CEBBF6</string>
+	<string>B3258CA0-04F7-4160-A2E6-A19D588C0865</string>
 	<key>PayloadOrganization</key>
 	<string>ez</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -53,7 +53,7 @@ iVBORw0KGgoAAAANSUhEUgAAAfoAAAH3CAYAAABTi52XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>3C151ECB-52A1-4F18-B5F6-735B63CEBBF6</string>
+	<string>B3258CA0-04F7-4160-A2E6-A19D588C0865</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
